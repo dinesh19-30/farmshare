@@ -1,11 +1,29 @@
+<<<<<<< HEAD
 # FarmShare - Community Machinery Sharing Platform
 
 ## Project info
 
+=======
+# Welcome to your Lovable project
+
+## Project info
+
+**URL**: https://lovable.dev/projects/f781dca8-397b-450c-90ff-638d2d7f5e02
+
+>>>>>>> ccb40a716bc8af3b1538ca547c2474755ec5e632
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
+<<<<<<< HEAD
+=======
+**Use Lovable**
+
+Simply visit the [Lovable Project](https://lovable.dev/projects/f781dca8-397b-450c-90ff-638d2d7f5e02) and start prompting.
+
+Changes made via Lovable will be committed automatically to this repo.
+
+>>>>>>> ccb40a716bc8af3b1538ca547c2474755ec5e632
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
@@ -54,9 +72,21 @@ This project is built with:
 
 ## How can I deploy this project?
 
+<<<<<<< HEAD
 You can deploy this project to any hosting platform that supports React applications, such as:
 - Vercel
 - Netlify
 - GitHub Pages
 - Heroku
 - AWS
+=======
+Simply open [Lovable](https://lovable.dev/projects/f781dca8-397b-450c-90ff-638d2d7f5e02) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+>>>>>>> ccb40a716bc8af3b1538ca547c2474755ec5e632
